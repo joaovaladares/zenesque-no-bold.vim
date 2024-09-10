@@ -17,11 +17,11 @@ hi Normal       guifg=#000000          guibg=#e0e0d8   gui=NONE
 hi CursorLine   guifg=NONE             guibg=#e1e1d0   gui=NONE
 hi CursorColumn guifg=NONE             guibg=#e1e1d0   gui=NONE
 hi LineNr       guifg=#a9a99e          guibg=NONE      gui=NONE
-hi Constant     guifg=#353535          guibg=NONE      gui=bold
+hi Constant     guifg=#353535          guibg=NONE      gui=NONE
 hi Statement    guifg=#363636          guibg=NONE      gui=italic
 hi Function     guifg=fg               guibg=NONE      gui=bold
 hi String       guifg=#3c3c3c          guibg=NONE      gui=NONE
-hi Type         guifg=#616161          guibg=NONE      gui=bold,italic
+hi Type         guifg=#616161          guibg=NONE      gui=italic
 hi Conditional  guifg=#4d4d4d          guibg=NONE      gui=bold
 hi Todo         guifg=fg               guibg=NONE      gui=bold,underline
 hi Comment      guifg=#797979          guibg=NONE      gui=italic
@@ -70,8 +70,8 @@ hi Visual       guifg=#ffffff          guibg=#9a9a9a   gui=NONE
 hi WarningMsg   guifg=#cfcfcf          guibg=#5b5b5b   gui=NONE
 hi WildMenu     guifg=#000000          guibg=#c2c2c2   gui=NONE
 
-hi Boolean      guifg=#616060          guibg=NONE      gui=bold
-hi Identifier   guifg=#141414          guibg=NONE      gui=bold
+hi Boolean      guifg=#616060          guibg=NONE      gui=NONE
+hi Identifier   guifg=#141414          guibg=NONE      gui=NONE
 hi Keyword      guifg=#666666          guibg=NONE      gui=underline
 hi PreProc      guifg=#6b6b6b          guibg=NONE      gui=NONE
 hi Special      guifg=#6e6e6e          guibg=NONE      gui=NONE
