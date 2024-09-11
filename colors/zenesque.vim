@@ -19,7 +19,7 @@ hi CursorColumn guifg=NONE             guibg=#e1e1d0   gui=NONE
 hi LineNr       guifg=#a9a99e          guibg=NONE      gui=NONE
 hi Constant     guifg=#353535          guibg=NONE      gui=NONE
 hi Statement    guifg=#363636          guibg=NONE      gui=italic
-hi Function     guifg=#505050               guibg=NONE      gui=bold
+hi Function     guifg=#616161          guibg=NONE      gui=bold
 hi String       guifg=#3c3c3c          guibg=NONE      gui=NONE
 hi Type         guifg=#616161          guibg=NONE      gui=italic
 hi Conditional  guifg=#4d4d4d          guibg=NONE      gui=bold
